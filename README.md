@@ -30,7 +30,7 @@ C:\Users\李森林\Desktop\server>java -jar server.jar -s -p 11118
 服务开启成功！
 
 ```
-### **插件部署**  [插件下载](http://download.csdn.net/detail/qqqqq210/9706610)
+### **插件部署**  [插件下载](http://download.csdn.net/detail/qqqqq210/9707168)
 1. **安装 **
 > 解压ZIP里面的JAR放在eclipse的plugins文件夹下,重启eclipse.
 
