@@ -27,7 +27,7 @@ java -jar server.jar -s -p 11118
 ```
 启动后看见如下文字即为成功
 ```
-C:\Users\李森林\Desktop\server>java -jar server.jar -s -p 11118
+java -jar server.jar -s -p 11118
 服务开启成功！
 
 ```
